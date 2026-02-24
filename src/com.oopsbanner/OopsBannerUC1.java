@@ -1,5 +1,0 @@
-public class OopsBannerUC1{
-	public static void main(String[] args){
-		System.out.println("OOPs");
-	}
-}
